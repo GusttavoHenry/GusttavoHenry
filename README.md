@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... javascript language programming / linguage HTML5 AND CSS3 
 - 💞️ I’m looking to collaborate on repository projects for beginners
 - 📫 How to reach me: You can contact me on my email: "gustavohenriquegsb@gmail.com" or on my github profile: GusttavoHenry
+
+
 any help is always welcome :)
 
 <!---
