@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @GusttavoHenry
+- 👋 Hi, I’m Gustavo Henrique
+- 📖 I am currently studying computer science at the USTJ university
 - 👀 I’m interested in video games, sports and learn new things 
-- 🌱 I’m currently learning ... javascript language programming / linguage HTML5 AND CSS3 
+- 🌱 I’m currently learning ...java, javascript language programming / linguage HTML5 AND CSS3
 - 💞️ I’m looking to collaborate on repository projects for beginners
 - 📫 How to reach me: You can contact me on my email: "gustavohenriquegsb@gmail.com" or on my github profile: GusttavoHenry
 
