@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="banner image" />
+<img src="https://cdn.discordapp.com/attachments/696922608343449614/1049513916897693696/yolanda-leif-akira-sfv-pulledit.gif" />
 
 
 <!-- <p align="center">
