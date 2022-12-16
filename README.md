@@ -24,7 +24,7 @@
   
  <a href="https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?gclid=CjwKCAiAy_CcBhBeEiwAcoMRHLix80OquHTeWetVtN211gL1yPWzSKZIUtaW4ZTlKsZ9ZmFpVenZrBoCmbYQAvD_BwE&sdid=KQPOM&mv=search&ef_id=CjwKCAiAy_CcBhBeEiwAcoMRHLix80OquHTeWetVtN211gL1yPWzSKZIUtaW4ZTlKsZ9ZmFpVenZrBoCmbYQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942" target="_blank"><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" target="_blank"></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-   <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"></a>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -54,12 +54,12 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=eoLucasS&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eoLucasS&layout=compact&langs_count=7&theme=radical"/>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GusttavoHenryS&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoHenryS&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eoLucasS&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GusttavoHenryS&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
