@@ -54,12 +54,12 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GusttavoHenryS&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoHenryS&layout=compact&langs_count=7&theme=radical"/>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GusttavoHenry S&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoHenry S&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GusttavoHenryS&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GusttavoHenry S&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
