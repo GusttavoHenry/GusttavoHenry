@@ -54,16 +54,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GusttavoHenry S&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoHenry S&layout=compact&langs_count=7&theme=radical"/>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GusttavoHenry&&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoHenry&&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GusttavoHenry S&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GusttavoHenry&&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://cdn.discordapp.com/attachments/696922608343449614/1053434128667770900/ShrillSadAfricanrockpython-max-1mb.gif">
 </p> 
 <hr>
 <p align="center">If you liked it, give me a follow and star ⭐</p>
